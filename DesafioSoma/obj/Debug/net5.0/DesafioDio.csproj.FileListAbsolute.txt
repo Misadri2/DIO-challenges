@@ -1,0 +1,16 @@
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.exe
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.deps.json
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.runtimeconfig.json
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.runtimeconfig.dev.json
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.dll
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\ref\DesafioDio.dll
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\bin\Debug\net5.0\DesafioDio.pdb
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.csprojAssemblyReference.cache
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.AssemblyInfoInputs.cache
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.AssemblyInfo.cs
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.csproj.CoreCompileInputs.cache
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.dll
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\ref\DesafioDio.dll
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.pdb
+C:\Users\user\Projetos\DesafioDio\DesafioSoma\obj\Debug\net5.0\DesafioDio.genruntimeconfig.cache
